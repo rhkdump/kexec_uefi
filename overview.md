@@ -39,7 +39,7 @@ pros and cons:
 [refer to branch kexec_uefi_emulator_RFCv2][3]
 
 # Reference
-[[RFCv2 0/9] UEFI emulator for kexec][4]
+Information extracted from the email thread [[RFCv2 0/9] UEFI emulator for kexec][4]
 
 [1]: https://github.com/Cydox/linux/blob/2908db6d8556fa617298cfb713355edaa9e4b095/arch/x86/kernel/kexec-uki.c
 [2]: https://github.com/ardbiesheuvel/efilite.git
