@@ -38,6 +38,10 @@ pros and cons:
 - Hard to debug at present, but can be resolved by saving the context.
 [refer to branch kexec_uefi_emulator_RFCv2][3]
 
+# Reference
+[[RFCv2 0/9] UEFI emulator for kexec][4]
+
 [1]: https://github.com/Cydox/linux/blob/2908db6d8556fa617298cfb713355edaa9e4b095/arch/x86/kernel/kexec-uki.c
 [2]: https://github.com/ardbiesheuvel/efilite.git
 [3]: https://github.com/pfliu/linux/tree/kexec_uefi_emulator_RFCv2
+[4]: https://lore.kernel.org/lkml/20240819145417.23367-1-piliu@redhat.com/T/
